@@ -139,7 +139,7 @@ The security of Your Personal Data is important to Us, but remember that no meth
 
 Advertising via AdMob by Google
 
-The application from the company use AdMob to serve ads. AdMob uses the devices advertising id to serve personalized ads based on the users interests (which includes collecting and analyzing user data).
+The application from the company use AdMob to serve ads. AdMob uses the devices advertising id to serve personalized ads based on the users interests (which includes collecting and analyzing user data). These device data will not stored by the application form the company.
 These links provids the latest informations about the required policies for AdMob and Google.
 AdMob policies and restrictions (https://support.google.com/admob/answer/6128543?hl=en) 
 Google policy (https://policies.google.com/privacy)
