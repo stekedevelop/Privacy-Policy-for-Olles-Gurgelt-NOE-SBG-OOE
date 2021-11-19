@@ -145,6 +145,10 @@ AdMob policies and restrictions (https://support.google.com/admob/answer/6128543
 Google policy (https://policies.google.com/privacy)
 
 
+Right To Erasure
+You are able to manage your data in the application. This is guartee by in app selection option.
+
+
 Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
